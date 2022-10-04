@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ethan
+- 👋 Hi, I’m Ethan 
 - 👀 I’m interested in computer hardware and software
 - 🌱 I’m currently learning Java, Python, and HTML5
 - 📫 How to reach me: ECD57@pitt.edu
